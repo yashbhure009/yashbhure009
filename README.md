@@ -12,12 +12,19 @@
 
 ### 👋 About me
 
-I'm a third-year B.Tech Computer Science student (Minor: Generative AI, CGPA 8.75/10) based in **Pune, India**, focused on **penetration testing, vulnerability management and privacy engineering**. I spend my time in Burp Suite, Metasploit and Nmap breaking things in labs, then writing my own tooling to automate what I keep repeating.
+I'm a third-year B.Tech Computer Science student (Minor: Generative AI, CGPA 8.75/10) in **Pune, India**, building a career across the full security stack: **Red Teaming, VAPT, SOC / blue team, cloud security and AI/ML security**. I break things in labs with Burp Suite, Metasploit and Nmap, then write my own tooling to automate what I keep repeating.
 
-- 🔭 Building **CyberFinGuard**, an automated financial risk and vulnerability assessment platform
-- 🛡️ Practicing offensive security on **TryHackMe**, **Hack The Box** and **PortSwigger Labs**
-- 🤖 Interested in where **AI meets privacy**: PII leakage, prompt harvesting, identity inference
-- 🎯 Currently seeking a **cybersecurity internship** in offensive security / privacy engineering
+- 🔴 **Offensive:** web app pentesting (OWASP Top 10), exploitation labs, CTFs
+- 🔵 **Defensive:** traffic analysis, detection opportunities, incident response labs
+- ☁️ **Cloud and infra:** vulnerability management, secure networking, compliance-aware design
+- 🤖 **AI/ML security:** privacy, PII leakage, prompt harvesting (one focus among several)
+- 🎯 Seeking a **cybersecurity internship**
+
+<div align="center">
+
+<img src="assets/terminal.svg" alt="terminal" width="720" />
+
+</div>
 
 ---
 
@@ -102,23 +109,34 @@ Reproduced the full attack chain in an isolated lab (scan → MS17-010 → SYSTE
 
 ---
 
-### 🎯 Mission log
+### 🎯 Skill radar & mission log
 
-| 🏆 Missions cleared | 🧭 Focus areas |
-|---|---|
-| 🥈 2nd Rank Globally, AI Tool Development Challenge (Goldsmiths, University of London, 2025), Team **Root Critics** | Web application pentesting (OWASP Top 10) |
-| 🇮🇳 Smart India Hackathon 2025, National Round Qualifier | Network traffic analysis (Wireshark) |
-| 🛡️ MSOC (Society of Cybersecurity) member, CTFs in crypto, forensics and privilege escalation | Vulnerability management, CVSS / EPSS risk scoring |
-| 🚩 Active on TryHackMe and Hack The Box | Privacy engineering, AI/ML security, blockchain security |
+<table>
+<tr>
+<td width="50%" align="center"><img src="assets/radar.svg" alt="Security skill radar" width="440" /></td>
+<td width="50%" valign="top">
+
+**🏆 Missions cleared**
+- 🥈 2nd Rank Globally, AI Tool Development Challenge, Goldsmiths University of London (2025), Team **Root Critics**
+- 🇮🇳 Smart India Hackathon 2025, National Round Qualifier
+- 🛡️ MSOC (Society of Cybersecurity) member: CTFs in crypto, forensics, privilege escalation
+- 🚩 Active on TryHackMe and Hack The Box
+
+**🧭 Focus areas**
+- Red Teaming and VAPT
+- SOC and network traffic analysis
+- Cloud security and vulnerability management
+- AI/ML security and privacy engineering
+
+</td>
+</tr>
+</table>
 
 ---
 
 ### 📊 GitHub stats
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yashbhure009&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashbhure009&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashbhure009&theme=tokyonight&hide_border=true" alt="Streak" />
 
