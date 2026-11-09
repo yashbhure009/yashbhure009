@@ -1,6 +1,6 @@
 <!-- Put this file in a repo named exactly: yashbhure009/yashbhure009 (Public) -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:00e5ff&height=220&section=header&text=YASH%20BHURE&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20Analyst%20%C2%B7%20Red%20Teaming%20%C2%B7%20VAPT%20%C2%B7%20AI%20Privacy&descSize=18&descAlignY=60" alt="Yash Bhure banner" />
+<img width="100%" src="https://raw.githubusercontent.com/yashbhure009/yashbhure009/main/banner.svg" alt="Yash Bhure banner" />
 
 <div align="center">
 
@@ -22,7 +22,7 @@ I'm a third-year B.Tech Computer Science student (Minor: Generative AI, CGPA 8.7
 
 <div align="center">
 
-<img src="assets/terminal.svg" alt="terminal" width="720" />
+<img src="https://raw.githubusercontent.com/yashbhure009/yashbhure009/main/terminal.svg" alt="terminal" width="720" />
 
 </div>
 
@@ -113,7 +113,7 @@ Reproduced the full attack chain in an isolated lab (scan → MS17-010 → SYSTE
 
 <table>
 <tr>
-<td width="50%" align="center"><img src="assets/radar.svg" alt="Security skill radar" width="440" /></td>
+<td width="50%" align="center"><img src="https://raw.githubusercontent.com/yashbhure009/yashbhure009/main/radar.svg" alt="Security skill radar" width="440" /></td>
 <td width="50%" valign="top">
 
 **🏆 Missions cleared**
