@@ -70,7 +70,7 @@ I'm a third-year B.Tech Computer Science student (Minor: Generative AI, CGPA 8.7
 <tr>
 <td width="33%" valign="top">
 
-**🏆 Ghost-Lab**
+**🏆 [Ghost-Lab](https://github.com/yashbhure009/GhostLab)**
 *AI privacy firewall*
 
 `Python` `NLP` `PII Detection`
