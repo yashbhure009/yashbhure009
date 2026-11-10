@@ -12,13 +12,15 @@
 
 ### 👋 About me
 
-I'm a third-year B.Tech Computer Science student (Minor: Generative AI, CGPA 8.75/10) in **Pune, India**, building a career across the full security stack: **Red Teaming, VAPT, SOC / blue team, cloud security and AI/ML security**. I break things in labs with Burp Suite, Metasploit and Nmap, then write my own tooling to automate what I keep repeating.
+I'm a third-year B.Tech Computer Science student (Minor: Generative AI, CGPA 8.75/10) in **Pune, India**, focused on **offensive security and security engineering**. I break things in labs with Burp Suite, Metasploit and Nmap, then write my own tooling to automate what I keep repeating.
 
-- 🔴 **Offensive:** web app pentesting (OWASP Top 10), exploitation labs, CTFs
-- 🔵 **Defensive:** traffic analysis, detection opportunities, incident response labs
-- ☁️ **Cloud and infra:** vulnerability management, secure networking, compliance-aware design
-- 🤖 **AI/ML security:** privacy, PII leakage, prompt harvesting (one focus among several)
-- 🎯 Seeking a **cybersecurity internship**
+| 🔴 Offense | 🛠️ Engineering | 🔵 Defense & 🤖 Emerging |
+|---|---|---|
+| **Red Teaming**: attack chains, privilege escalation, adversary simulation | **DevSecOps**: security in CI/CD, automated scanning, secure pipelines | **Blue Team**: Wireshark analysis, detection opportunities |
+| **Offensive Security**: exploitation labs, CTFs | **Security Engineering**: risk scoring, secure architecture, compliance-aware design | **AI/ML Security**: PII leakage, prompt harvesting, model privacy |
+| **VAPT**: Web App Security, AppSec, OWASP Top 10 | **Cloud Security**: secure networking, vulnerability management | **SOC**: traffic analysis, detection, incident response labs |
+
+🎯 Currently seeking a **cybersecurity internship** in offensive security / security engineering.
 
 <div align="center">
 
@@ -127,10 +129,12 @@ Reproduced the full attack chain in an isolated lab (scan → MS17-010 → SYSTE
 - 🚩 Active on TryHackMe and Hack The Box
 
 **🧭 Focus areas**
-- Red Teaming and VAPT
-- SOC and network traffic analysis
-- Cloud security and vulnerability management
-- AI/ML security and privacy engineering
+- Red Teaming and Offensive Security
+- VAPT: AppSec and Web App Security
+- DevSecOps and Security Engineering
+- Cloud Security
+- SOC and Blue Team
+- AI/ML Security
 
 </td>
 </tr>
