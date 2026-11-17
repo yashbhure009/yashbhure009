@@ -12,7 +12,7 @@
 
 ### 👋 About me
 
-I'm a third-year B.Tech Computer Science student (Minor: Generative AI, CGPA 8.75/10) in **Pune, India**, focused on **offensive security and security engineering**. I break things in labs with Burp Suite, Metasploit and Nmap, then write my own tooling to automate what I keep repeating.
+I'm a third-year B.Tech Computer Science student (Minor: Generative AI, First Class With Distinction) in **Pune, India**, focused on **offensive security and security engineering**. I break things in labs with Burp Suite, Metasploit and Nmap, then write my own tooling to automate what I keep repeating.
 
 | 🔴 Offense | 🛠️ Engineering | 🔵 Defense & 🤖 Emerging |
 |---|---|---|
